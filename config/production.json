@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://admin:admin@lsgiveaways.5udu6wd.mongodb.net/?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
+}
