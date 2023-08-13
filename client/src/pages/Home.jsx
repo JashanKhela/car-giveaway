@@ -127,7 +127,7 @@ export default function Home() {
             >
               <circle cx={1} cy={1} r={1} />
             </svg>
-            Enter Nowww <span aria-hidden='true'>&rarr;</span>
+            Enter Now <span aria-hidden='true'>&rarr;</span>
           </a>
         </p>
         <div className='flex flex-1 justify-end'>
