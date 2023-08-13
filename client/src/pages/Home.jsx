@@ -148,6 +148,7 @@ export default function Home() {
           </h1>
           <span className='mt-2 bubble-font'>Presented By LSGiveAways</span>
           <button
+            href='#form'
             className={`bg-black text-white rounded-lg py-3 px-6 text-lg mt-2 bubble-font uppercase`}
           >
             Enter Contest
